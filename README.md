@@ -77,7 +77,6 @@ python main.py
 ├── keyboards.py     # Генераторы клавиатур
 ├── database.py      # Работа с базой данных
 ├── quiz_data.py     # Вопросы для квиза
-├── .env             # Конфигурация (токен бота)
 ├── requirements.txt # Зависимости
 └── README.md        # Документация (этот файл)
 ```
