@@ -132,6 +132,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+quiz_bot.db
 
 # Spyder project settings
 .spyderproject
